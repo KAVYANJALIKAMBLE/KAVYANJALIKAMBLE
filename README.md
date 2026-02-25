@@ -10,11 +10,10 @@
 
 ---
 
-## 🌸 About Me
+## About Me
 
 - 🎓 3rd Year Engineering Student  
 - 💻 Learning **Java, SQL, Cloud Computing, AI**
-- 🎯 Preparing for **GATE 2026**
 - 🚀 Interested in **Data Analytics & Backend Development**
 - 🌱 Currently improving coding & communication skills
 
